@@ -137,7 +137,7 @@ const TEMPLATES = {
       false,
       "",
       true,
-      "1",
+      "20",
       true,
     ],
     "profile:FarmB": [
@@ -180,7 +180,7 @@ const TEMPLATES = {
       true,
       "1",
       true,
-      "3",
+      "20",
       true,
     ],
     "profile:FarmC": [
@@ -223,7 +223,7 @@ const TEMPLATES = {
       true,
       "1",
       true,
-      "15",
+      "20",
       true,
     ],
   },
