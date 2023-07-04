@@ -155,7 +155,7 @@ const TEMPLATES = {
       true,
       "hide",
       "5",
-      true,
+      false,
       true,
       false,
       true,
