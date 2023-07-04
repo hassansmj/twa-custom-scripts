@@ -112,7 +112,7 @@ const TEMPLATES = {
       false,
       "hide",
       "",
-      true,
+      false,
       true,
       false,
       true,
