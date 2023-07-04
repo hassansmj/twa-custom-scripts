@@ -67,7 +67,7 @@ const TEMPLATES = {
       true,
       "1",
       true,
-      "3",
+      "20",
       true,
     ],
     profileList: ["Default", "FarmA", "FarmB", "FarmC"],
